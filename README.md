@@ -1,6 +1,6 @@
 # Job Applications Report Generator
 
-A Node.js application that generates PDF and DOCX reports from The Ladders job application data.
+A Node.js application that generates PDF reports from The Ladders job application data.
 
 ## Features
 
@@ -11,7 +11,6 @@ A Node.js application that generates PDF and DOCX reports from The Ladders job a
   - Color-coded status indicators
   - Clickable job URLs
   - Automatic page breaks
-- Generates DOCX report with tabulated application data
 
 ## Prerequisites
 
