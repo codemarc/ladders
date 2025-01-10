@@ -1,0 +1,3994 @@
+{
+	"data": [
+		{
+			"id": 37598938,
+			"jobLocationId": 79252311,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736517495000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1736521415000
+				}
+			],
+			"jobTitle": "Principal Technical Architect, Technology & Digital, M-F 8 to 4:30pm",
+			"applicationType": "APPLY4ME",
+			"companyName": "Baptist Health South Florida",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/5797/0a261618-bd83-4856-b9b1-d3df6a66f20d.jpg",
+			"companySeoName": "baptisthealthsouthflorida",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 547957,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736387909000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1736400606000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/4116597970",
+			"jobTitle": "Principal Software Engineer ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": " Calendly",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 547815,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736374964000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1736382865000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/4116736776",
+			"jobTitle": "Head of Technology ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Sony Interactive Entertainment",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 547657,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736367205000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1736371216000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/4119770806/?trackingId=jV8RwbreQPe1xnNl%2FvqUsw%3D%3D&refId=ESSqqqXoT3KGz1Nyj83RfA%3D%3D&midToken=AQEr4dTk-iap4g&midSig=1GGvPIs3qwBbA1&trk=eml-jobs_jymbii_digest-job_card-0-job_posting&trkEmail=eml-jobs_jymbii_digest-job_card-0-job_posting-null-2f7c~m5ob331u~yr-null-null&eid=2f7c-m5ob331u-yr&otpToken=MTMwNDFkZTAxMzI4YzNjNWIzMmQwM2U5NDAxYmUzYjM4ZGM5ZDA0MzkzYWM4YjZiNzRjZjA5Njg0YzVhNTZiN2FjOGVhMGI0NmFiN2VhZGRjNzNjYjAzMWI4YzAxNGIyYzE5OGQ3Nzc1ZTliMjcsMSwx",
+			"jobTitle": "SVP, Chief Technology Officer ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Omnicell",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 547601,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736365706000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1736368193000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/4119019883",
+			"jobTitle": "Principal Application Architect ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": " IQVIA",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 547551,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736363837000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1736366830000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/4116730865",
+			"jobTitle": "Integration Platform Developer - Government Sector - Senior - Consulting - Location Open ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": " EY",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 547544,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736363575000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1736367330000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/4119045911",
+			"jobTitle": "Software Development Manager - on-Vehicle Programming ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": " General Motors",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 547540,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736363540000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1736365614000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/4119482203",
+			"jobTitle": "Senior Staff Application Engineer ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "NVIDIA",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 547527,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736363124000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1736365843000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/4117109743",
+			"jobTitle": "Software Engineer - Product (Technical Leadership) ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Meta",
+			"companySeoName": "themeta",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 547513,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736362473000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1736365115000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/4062302585",
+			"jobTitle": "Senior Director, Software Engineering ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Inovalon",
+			"companySeoName": "inovalon",
+			"applicationPdfExists": false,
+			"reasonToCloseId": 1
+		},
+		{
+			"id": 547504,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736362369000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1736363810000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/4114877689",
+			"jobTitle": "Vice President, Engineering - Infrastructure Product Group ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": " HashiCorp",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 547502,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736362320000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1736363723000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/4117978131",
+			"jobTitle": "Principal Lead Enterprise Architect - R&D ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Globalfoundries",
+			"companySeoName": "globalfoundries",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 547501,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736362243000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1736365000000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/4119070171",
+			"jobTitle": "Senior Director, Technology Program Management ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Purpose Brands, LLC",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 547498,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736362021000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1736365317000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/4114862815",
+			"jobTitle": "Director of Engineering ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Live Nation Entertainment",
+			"companySeoName": "livenationentertainment",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 547488,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736361704000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1736363970000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/4112686163",
+			"jobTitle": "Senior Vice President of Engineering ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Array",
+			"companySeoName": "arraybiopharma",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 547487,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736361652000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1736371308000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/4117178115",
+			"jobTitle": "Director, Software Engineer ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "NetApp",
+			"companySeoName": "netapp",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 547415,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736359437000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1736363919000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/4115344244",
+			"jobTitle": "Director of Engineering",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": " Leonardo247",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 547408,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736359109000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1736363532000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/4117974652",
+			"jobTitle": "Director of Software Engineering (or Sr. Director DOE) ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "oureyes",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 547401,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736358875000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1736361112000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/4117934668",
+			"jobTitle": "Head of Engineering ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": " Peerspace",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 547395,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736358744000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1736367900000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/4120051144",
+			"jobTitle": "Vice President Information Technology",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Swooped",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 547393,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1736358693000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1736367580000
+				}
+			],
+			"jobUrl": "https://www.theladders.com/applied?page=1&sortBy=STATUS&sortDirection=DESC",
+			"jobTitle": "Applied Jobs | Ladders Job Search | $100K Jobs Hiring Now, Career Advice & Resume Help",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"applicationPdfExists": false,
+			"reasonToCloseId": 8
+		},
+		{
+			"id": 36741642,
+			"jobLocationId": 73472151,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1720449673000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1720460700000
+				}
+			],
+			"jobTitle": "Principal Software Architect",
+			"applicationType": "APPLY4ME",
+			"companyName": "OneStream",
+			"jobClosedDate": 1722900940000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36741633,
+			"jobLocationId": 73669397,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1720449631000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1720460326000
+				}
+			],
+			"jobTitle": "Vice President, Engineering (US)",
+			"applicationType": "APPLY4ME",
+			"companyName": "PointClickCare",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/48115/da0e463d-455c-4317-9746-4072649f83b7.jfif",
+			"companySeoName": "pointclickcare",
+			"jobClosedDate": 1729083960000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36737001,
+			"jobLocationId": 73174757,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1720365549000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1720381564000
+				}
+			],
+			"jobTitle": "Principal Enterprise Architect",
+			"applicationType": "APPLY4ME",
+			"companyName": "Humana Inc",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/19601/17ef1836-a128-4ee7-a77f-da4b3ee513eb.jpg",
+			"companySeoName": "appcastio",
+			"jobClosedDate": 1722968423000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 421633,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1720302441000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1720323222000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3964933474/?trackingId=wn5JfO6QSWeG71zWCyau4g%3D%3D&refId=2ZZ%2FAreJRAO2YSfkzCBMtQ%3D%3D&midToken=AQEr4dTk-iap4g&midSig=0o8ODZkPapubk1&trk=eml-jobs_jymbii_digest-job_card-0-jobcard_body&trkEmail=eml-jobs_jymbii_digest-job_card-0-jobcard_body-null-2f7c~ly91lmso~bi-null-null&eid=2f7c-ly91lmso-bi&otpToken=MTMwNDFkZTAxMzI4YzNjNWIzMmMwNWU4NDYxOGU0YjE4ZmNlZDI0MjkzYWM4YjZiNzRjZjA5Njg0YzVhNTY4ZGI2YWE4MWJiNDNlM2YwMzU4ZjhiNGM2ODcwNDJmNjQ2Njg3NmVmOGJmYWJiOTUsMSwx",
+			"jobTitle": "Director Software Development ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Oracle",
+			"companySeoName": "oraclecorporation",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 421248,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1720206859000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1720214504000
+				}
+			],
+			"jobUrl": "https://sharecare.wd1.myworkdayjobs.com/Sharecare_Careers/job/Remote/VP--Software-Engineering_R-100892",
+			"jobTitle": "Careers",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Sharecare Operating Company, Inc.",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 420698,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1720106562000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1720106792000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3961361918/?refId=eb182e34-5401-3787-9ae7-9e37c6269812",
+			"jobTitle": "Cloud Engineering Architect",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "SmartBear",
+			"companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHvcaaw3m3gUw/company-logo_200_200/0/1633542767992/smartbear_logo?e=2147483647&amp;v=beta&amp;t=Q9nXJlUUDM7lvWt49jGYYssoH78unvC07pjjT4CiDb0",
+			"jobClosedDate": 1722062065000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 418786,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719924207000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1719939531000
+				}
+			],
+			"jobUrl": "https://www.burtchworks.com/terms-of-use",
+			"jobTitle": "Burtch Works | Terms of Use",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"applicationPdfExists": false,
+			"reasonToCloseId": 9
+		},
+		{
+			"id": 418419,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719870601000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719919049000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3948493529",
+			"jobTitle": "Program Manager, Strategic Partnerships (Remote*)",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Office Depot",
+			"companySeoName": "officedepot",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 418412,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719870518000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719918556000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3908519527",
+			"jobTitle": "Director, Product Management - Innovation (Remote*)",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Office Depot",
+			"companySeoName": "officedepot",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 417854,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719849781000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1719865521000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3919414439",
+			"jobTitle": "Lead Architect ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Total Wine & More",
+			"companySeoName": "totalwine",
+			"applicationPdfExists": false,
+			"reasonToCloseId": 1,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 417850,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719849675000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719873010000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3959563871",
+			"jobTitle": "Application Services Engineering Director ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "American Express",
+			"companySeoName": "americanexpress",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 417756,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719845983000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719862359000
+				}
+			],
+			"jobUrl": "https://jobs.gusto.com/postings/clearcogs-vp-of-engineering-87207147-0db2-4279-9704-2fe603e03156",
+			"jobTitle": "VP of Engineering at ClearCOGS",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Marc Greenberg",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 417750,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719845842000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719862133000
+				}
+			],
+			"jobUrl": "https://www.glassdoor.com/job-listing/application-services-engineering-director-amex-JV_IC1166212_KO0,41_KE42,46.htm?jl=1009338748983",
+			"jobTitle": "Application Services Engineering Director",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": " Amex ",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 36709430,
+			"jobLocationId": 73488248,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719841331000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719853499000
+				}
+			],
+			"jobTitle": "Principal Frontend Software Engineer , Search",
+			"applicationType": "APPLY4ME",
+			"companyName": "Cribl",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/57971/5cd5ba51-59b4-40a3-ba0a-e67b873d6908.png",
+			"companySeoName": "cribl",
+			"jobClosedDate": 1720809558000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36709399,
+			"jobLocationId": 72985006,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719841155000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719854738000
+				}
+			],
+			"jobTitle": "Senior Director of Enterprise Data Strategy and Architecture",
+			"applicationType": "APPLY4ME",
+			"companyName": "Intel",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/6553/44b8a3b1-fdd4-4e02-b0d2-2ea32bb9ac58.png",
+			"companySeoName": "intel",
+			"jobClosedDate": 1722965262000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36709329,
+			"jobLocationId": 72993613,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719840704000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719851050000
+				}
+			],
+			"jobTitle": "Senior Director, Software Engineering",
+			"applicationType": "APPLY4ME",
+			"companyName": "Walmart",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/2347/56ad3733-3264-4a95-abf6-e220e3ba4587.jpg",
+			"companySeoName": "walmart",
+			"jobClosedDate": 1725974570000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36709317,
+			"jobLocationId": 73296245,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719840655000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719850952000
+				}
+			],
+			"jobTitle": "Director, Product Management, Technology Workflow",
+			"applicationType": "APPLY4ME",
+			"companyName": "ServiceNow",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/21012/04b0c0b8-e21e-4ad6-8929-c956eb7974ef.jpg",
+			"companySeoName": "servicenow",
+			"jobClosedDate": 1722356248000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36709292,
+			"jobLocationId": 73465280,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719840484000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719850835000
+				}
+			],
+			"jobTitle": "Senior Software Engineer (Customer Identity)",
+			"applicationType": "APPLY4ME",
+			"companyName": "Okta",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/16765/c70942be-c056-4215-a54d-50b958266c02.png",
+			"companySeoName": "okta",
+			"jobClosedDate": 1720809583000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36709272,
+			"jobLocationId": 73474273,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719840356000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719851090000
+				}
+			],
+			"jobTitle": "Sr Software Engineer - Lead",
+			"applicationType": "APPLY4ME",
+			"companyName": "SpyCloud",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/47548/6d0a2334-bd56-4198-a364-da1651646c2e.png",
+			"companySeoName": "spycloud",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36709267,
+			"jobLocationId": 73474316,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719840340000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719851001000
+				}
+			],
+			"jobTitle": "Head of Product Engineering, API Integrations",
+			"applicationType": "APPLY4ME",
+			"companyName": "Calendly",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/25948/8b9e287c-435b-449b-b792-166d4f5bde4f.jpg",
+			"companySeoName": "calendly",
+			"jobClosedDate": 1727487587000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36709240,
+			"jobLocationId": 73492845,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719840165000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719852964000
+				}
+			],
+			"jobTitle": "Lead Solution Architect",
+			"applicationType": "APPLY4ME",
+			"companyName": "CVS Health",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/411/cbdd3a0b-571f-4d4f-9eae-73a681c8480a.jpg",
+			"companySeoName": "cvshealth",
+			"jobClosedDate": 1720571141000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36709232,
+			"jobLocationId": 73495134,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719840110000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719853343000
+				}
+			],
+			"jobTitle": "Solution Architect",
+			"applicationType": "APPLY4ME",
+			"companyName": "Bentley Systems",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/37175/0dc27761-b862-4b7f-8020-4f45a84b5793.png",
+			"companySeoName": "bentleysystems",
+			"jobClosedDate": 1721692895000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 417397,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719779600000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719803361000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3944628308/?refId=3xmoSGlHT%2BG99aKmnQWqQw%3D%3D&trackingId=3xmoSGlHT%2BG99aKmnQWqQw%3D%3D",
+			"jobTitle": "Cloud Solutions Architect - Multiple Openings ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Oracle",
+			"companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQHYCgYovUuPtQ/company-logo_200_200/0/1665755678957/oracle_logo?e=2147483647&amp;v=beta&amp;t=lHqo8-lmYsyqPlZL_Fby7bIoXUXm26-jhv6pNtuaERk",
+			"jobClosedDate": 1720315787000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 417305,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719760972000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719770654000
+				}
+			],
+			"jobUrl": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Senior-Manager--Software-Engineering_2024-33851?source=LinkedIn",
+			"jobTitle": "Senior Manager, Software Engineering",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Lennar",
+			"companySeoName": "lennarcorporation",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 417304,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719760837000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719770559000
+				}
+			],
+			"jobUrl": "https://lennar.wd1.myworkdayjobs.com/en-US/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Vice-President-of-Software-Engineering_2024-33932-1",
+			"jobTitle": "Vice President of Software Engineering",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Lennar",
+			"companySeoName": "lennarcorporation",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 417135,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719699664000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719726848000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3960940281/",
+			"jobTitle": "Solutions Architect, Startups ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Amazon Web Services (AWS)",
+			"companyLogoUrl": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_200_200/0/1670264051233/amazon_web_services_logo?e=2147483647&amp;v=beta&amp;t=_W3qHfWdVBK4PoTzxUUJ8plE4WOg2bfSVOdO6pxIqqY",
+			"jobClosedDate": 1722133345000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 417054,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719682397000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1719845254000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3963224616",
+			"jobTitle": "Mainframe Modernization Solution Architect ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Accenture",
+			"companySeoName": "accenture",
+			"applicationPdfExists": false,
+			"reasonToCloseId": 1
+		},
+		{
+			"id": 416632,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719606751000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719619501000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3918953779",
+			"jobTitle": "Principal, Corporate Development Integration",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Cloud Software Group",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 416421,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719592490000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719609188000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3943070530",
+			"jobTitle": "Manager of Software Engineering ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "UKG",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 416306,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719584540000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719592813000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3935669588",
+			"jobTitle": "Principal Java Engineer - Pharmacy Core Services ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Publix Super Markets, Inc.",
+			"companySeoName": "publixsupermarkets",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 416271,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719580566000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719588623000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3962623464",
+			"jobTitle": "Director of Software",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": " College H.U.N.K.S. Hauling Junk and Moving",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 36697459,
+			"jobLocationId": 72928718,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719545503000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719578964000
+				}
+			],
+			"jobTitle": "Senior Staff Engineer - CRM",
+			"applicationType": "APPLY4ME",
+			"companyName": "Geico",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/1776/72270c20-c5bc-4dd0-9c6e-bc4e0fdfb40a.jpg",
+			"companySeoName": "geico",
+			"jobClosedDate": 1726586272000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36697449,
+			"jobLocationId": 73227254,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719545287000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719574172000
+				}
+			],
+			"jobTitle": "Director of Software Engineering",
+			"applicationType": "APPLY4ME",
+			"companyName": "Sparc The World",
+			"jobClosedDate": 1732389904000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36697443,
+			"jobLocationId": 73307602,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719545197000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1719574024000
+				}
+			],
+			"jobTitle": "Health IT Senior Solution Architect",
+			"applicationType": "APPLY4ME",
+			"companyName": "Leidos",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/19601/17ef1836-a128-4ee7-a77f-da4b3ee513eb.jpg",
+			"companySeoName": "appcastio",
+			"jobClosedDate": 1719574025000,
+			"applicationPdfExists": false,
+			"reasonToCloseId": 1,
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36697441,
+			"jobLocationId": 72172236,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719545170000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719574012000
+				}
+			],
+			"jobTitle": "Director, Software Engineering",
+			"applicationType": "APPLY4ME",
+			"companyName": "General Electric Company",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/16665/e77bfe4c-f402-41ed-99a0-baf50e9baf9c.png",
+			"companySeoName": "generalelectric",
+			"jobClosedDate": 1724348752000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36697439,
+			"jobLocationId": 73214072,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719545111000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1726899404000
+				}
+			],
+			"jobTitle": "Technology Strategy & Business Transformation Senior Manager",
+			"applicationType": "APPLY4ME",
+			"companyName": "Deloitte",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/17064/fec5ed0f-31ae-46f8-b7e1-6b09b01c6714.png",
+			"companySeoName": "deloitte",
+			"jobClosedDate": 1726899395000,
+			"applicationPdfExists": false,
+			"reasonToCloseId": 1,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36697399,
+			"jobLocationId": 72431966,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719544365000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719574841000
+				}
+			],
+			"jobTitle": "Director of Information Technology",
+			"applicationType": "APPLY4ME",
+			"companyName": "Flow",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/9013/c73a08a2-177d-499b-afcb-c8fbae14b7f0.jpg",
+			"companySeoName": "flowinternational",
+			"jobClosedDate": 1724658781000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 416090,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719531180000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719538912000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3960948071",
+			"jobTitle": "M & A Program Manager ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Tential Solutions",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 416041,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719523616000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1719527467000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3918276439",
+			"jobTitle": "Principal Program Manager - Advocacy ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Microsoft",
+			"companySeoName": "microsoft",
+			"applicationPdfExists": false,
+			"reasonToCloseId": 9
+		},
+		{
+			"id": 415548,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719487308000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719493839000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3959795995/?trackingId=ZAMu8meTqS1TL3m3sCQ8%2FA%3D%3D&refId=ByteString%28length%3D16%2Cbytes%3D2122431d...c3aea2b3%29&midToken=AQEr4dTk-iap4g&midSig=3yzkdDOBI0ibk1&trk=eml-email_job_alert_digest_01-job_card-0-jobcard_body&trkEmail=eml-email_job_alert_digest_01-job_card-0-jobcard_body-null-2f7c~lxwpzyro~bu-null-null&eid=2f7c-lxwpzyro-bu&otpToken=MTMwNDFkZTAxMzI4YzNjNWIzMmYwY2VlNDMxN2VmYjM4ZmNhZDU0MTkzYWM4YjZiNzRjZjA5Njg0YzVhNTY4NGY2YTY4MzgwNGNlNWZmNGQyYTBmY2I5MjFiYTE5ODNjMzc1MDlmYzJmNDk4MGYsMSwx",
+			"jobTitle": "Emerging Tech Senior Manager - Software Architecture ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Vertex",
+			"companySeoName": "vertexinc",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 414639,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719412053000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719417145000
+				}
+			],
+			"jobUrl": "https://boards.greenhouse.io/arizeai/jobs/4097259004?utm_source=himalayas.app&utm_medium=himalayas.app&utm_campaign=himalayas.app&ref=himalayas.app&source=himalayas.app",
+			"jobTitle": "Senior Fullstack Engineer",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Arize AI",
+			"companyLogoUrl": "https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/491/000/resized/persian_rose_no_text_on_transparent_background_RGB.png?1630527892",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 36686288,
+			"jobLocationId": 72936727,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719398027000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719412973000
+				}
+			],
+			"jobTitle": "Principal Software Engineer",
+			"applicationType": "APPLY4ME",
+			"companyName": "ServiceTitan",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/20318/22c83840-5cbe-4403-9837-ab6a8c144331.jpg",
+			"companySeoName": "servicetitan",
+			"jobClosedDate": 1728432859000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36686287,
+			"jobLocationId": 73042933,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719397995000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719412785000
+				}
+			],
+			"jobTitle": "Sr. Director, Analytics Practice Lead",
+			"applicationType": "APPLY4ME",
+			"companyName": "Acxiom LLC",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/4290/00be340d-2f8f-40bc-8c46-faaa66d98d9c.png",
+			"companySeoName": "acxiom",
+			"jobClosedDate": 1724211272000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36686286,
+			"jobLocationId": 73073773,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719397960000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719412554000
+				}
+			],
+			"jobTitle": "VP Innovation, Navy Business Group CTO",
+			"applicationType": "APPLY4ME",
+			"companyName": "SAIC",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/16730/b866fdd3-ddce-41c1-b96b-0606c5ee5594.jpeg",
+			"companySeoName": "saic",
+			"jobClosedDate": 1722493850000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36686285,
+			"jobLocationId": 73079262,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719397913000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719412178000
+				}
+			],
+			"jobTitle": "Senior Principle Engineer",
+			"applicationType": "APPLY4ME",
+			"companyName": "Atlassian",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/16615/ed861547-210b-4381-892b-0686494e1369.jpg",
+			"companySeoName": "atlassian",
+			"jobClosedDate": 1727846773000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36686281,
+			"jobLocationId": 71230595,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719397314000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1719411923000
+				}
+			],
+			"jobTitle": "Senior Engineering Manager",
+			"applicationType": "APPLY4ME",
+			"companyName": "Paylocity",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/6421/5fbfbaad-d8ef-45a7-83a1-3c0b9c07e2f9.jpg",
+			"companySeoName": "paylocity",
+			"jobClosedDate": 1722388367000,
+			"applicationPdfExists": false,
+			"reasonToCloseId": 4,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36686280,
+			"jobLocationId": 72748037,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719397194000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719412973000
+				}
+			],
+			"jobTitle": "Senior Managing Enterprise Architect",
+			"applicationType": "APPLY4ME",
+			"companyName": "M&T Bank Corporation",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/6414/c0672bab-bf58-4cca-85ad-5d60322cac61.png",
+			"companySeoName": "mtbankcorporation",
+			"jobClosedDate": 1725299843000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 414488,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719377125000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719411148000
+				}
+			],
+			"jobUrl": "https://mattressfirm.wd1.myworkdayjobs.com/CorporateCareers/job/United-States/VP--Digital-Technology_JR-P0052437?source=LinkedIn",
+			"jobTitle": "VP, Digital Technology",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Mattress Firm, Inc",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 414486,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719377072000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719410815000
+				}
+			],
+			"jobUrl": "https://www.glowtouch.com/careers/?gnk=job&gni=8a7887a1902d783201903660b22931cb&gns=LinkedIn%2BLimited",
+			"jobTitle": " Senior Vice President of Technology",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "GlowTouch LLC",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 414485,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719376919000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719410520000
+				}
+			],
+			"jobUrl": "https://us-careers-rhoworld.icims.com/jobs/2805/vice-president%252c-information-technology/job?mode=job&iis=SOURCE&hub=6&iisn=LinkedIn&mobile=false&width=1410&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+			"jobTitle": "Vice President, Information Technology",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "RHO",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 414479,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719376381000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719410342000
+				}
+			],
+			"jobUrl": "https://jobs.citi.com/job/fort-lauderdale/apps-dev-tech-sr-lead-analyst-svp/287/66009000928",
+			"jobTitle": "Apps Dev Tech Sr Lead Analyst - SVP",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Citi",
+			"companySeoName": "citigroupinc",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 414475,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719376087000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1719409778000
+				}
+			],
+			"jobUrl": "https://boards.greenhouse.io/archera/jobs/4045477008",
+			"jobTitle": "Job Application for Field CTO at Archera",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Archera",
+			"companyLogoUrl": "https://s8-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/176/600/resized/archera.png?1715009607",
+			"applicationPdfExists": false,
+			"reasonToCloseId": 1
+		},
+		{
+			"id": 414448,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719374220000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1719409260000
+				}
+			],
+			"jobUrl": "https://www.hustlewing.com/get-verified",
+			"jobTitle": "HustleWing",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"applicationPdfExists": false,
+			"reasonToCloseId": 8
+		},
+		{
+			"id": 414364,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719365428000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719402152000
+				}
+			],
+			"jobUrl": "https://recruiting.southernglazers.com/job/Miramar-Enterprise-Architect-Applications-&-Integrations-FL-33027/1173804700/?feedId=364700",
+			"jobTitle": "Enterprise Architect - Applications & Integrations",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Southern Glazer’s Wine & Spirits",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 414252,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719354744000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1719378593000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3939488494",
+			"jobTitle": "Principal Software Engineering Manager - Azure Core ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"applicationPdfExists": false,
+			"reasonToCloseId": 9
+		},
+		{
+			"id": 414250,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719354606000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719384370000
+				}
+			],
+			"jobUrl": "https://ritzcarltonyachtcollection.wd5.myworkdayjobs.com/External_Career_Site/job/Ft-Lauderdale-Florida/Sr-Director-of-Digital-Technologies_R-100181?source=LinkedIn",
+			"jobTitle": "Sr. Director of Digital Technologies",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Cruise Yacht OpCo Ltd (Miami Branch)",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 414248,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719354198000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719383884000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3958671801",
+			"jobTitle": "Director of Responsible AI & Technology Stewardship (US Remote) ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Motorola Solutions, Inc.",
+			"companySeoName": "motorolasolutions",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 413473,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719283587000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719326847000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3806491716/",
+			"jobTitle": "Director Enterprise Services ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Southern Glazer's Wine &amp; Spirits",
+			"companyLogoUrl": "https://media.licdn.com/dms/image/D4E0BAQFxlLt33MWKDQ/company-logo_200_200/0/1719256393109/southern_wine__spirits_logo?e=2147483647&amp;v=beta&amp;t=1IJNrYxxO_-cpy6TIRKFGtI8MgLu7mRrzXdJfwJoUbg",
+			"jobClosedDate": 1720057691000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 413358,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1719276121000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1719321822000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3930488909",
+			"jobTitle": "Senior Engineering Manager (Partnerships Integrations)",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Cadence Design Systems, Inc.",
+			"companySeoName": "cadencedesignsystems",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 36628909,
+			"jobLocationId": 72410584,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1718551589000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1718558685000
+				}
+			],
+			"jobTitle": "VP of Enterprise Technology | Remote",
+			"applicationType": "APPLY4ME",
+			"companyName": "Oak View Group",
+			"companySeoName": "oak-view-group",
+			"jobClosedDate": 1719911437000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36628900,
+			"jobLocationId": 72810867,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1718551502000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1718559086000
+				}
+			],
+			"jobTitle": "Principal Enterprise Architect (CMDB)",
+			"applicationType": "APPLY4ME",
+			"companyName": "The Walt Disney Company",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/6480/0f0993dc-ebad-45b9-b60d-f9929d19f35f.jpg",
+			"companySeoName": "thewaltdisneycompany",
+			"jobClosedDate": 1723038233000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36623123,
+			"jobLocationId": 72523512,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1718379760000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1718383075000
+				}
+			],
+			"jobTitle": "Business Development Software Solutions Architect",
+			"applicationType": "APPLY4ME",
+			"companyName": "SAIC",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/16730/b866fdd3-ddce-41c1-b96b-0606c5ee5594.jpeg",
+			"companySeoName": "saic",
+			"jobClosedDate": 1727821533000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36623090,
+			"jobLocationId": 72151956,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1718379584000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1718382908000
+				}
+			],
+			"jobTitle": "Director, Software Engineering",
+			"applicationType": "APPLY4ME",
+			"companyName": "General Electric Company",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/16665/e77bfe4c-f402-41ed-99a0-baf50e9baf9c.png",
+			"companySeoName": "generalelectric",
+			"jobClosedDate": 1724446148000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36623074,
+			"jobLocationId": 72446512,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1718379489000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1718382612000
+				}
+			],
+			"jobTitle": "VP of Enterprise Technology | Remote",
+			"applicationType": "APPLY4ME",
+			"companyName": "Oak View Group",
+			"companySeoName": "oak-view-group",
+			"jobClosedDate": 1719844417000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 406085,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1718377610000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1718383344000
+				}
+			],
+			"jobUrl": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/VP-of-Software-Engineering---Frameworks_R8508?source=LinkedIn",
+			"jobTitle": "Careers",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Workiva Inc.",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 36622667,
+			"jobLocationId": 72407745,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1718375862000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1718382297000
+				}
+			],
+			"jobTitle": "VP of Engineering",
+			"applicationType": "APPLY4ME",
+			"companyName": "minware",
+			"companySeoName": "minware",
+			"jobClosedDate": 1733351748000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 402623,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1718057597000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1718085298000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3941487746",
+			"jobTitle": "Senior Software Architect ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": " Bluebeam",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 401479,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717984194000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1718021937000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3929063945/?trackingId=9a6C9YXxqHDHSEzq9H6%2BcQ%3D%3D&refId=ByteString%28length%3D16%2Cbytes%3D8c083f03...d28b87d6%29&midToken=AQEr4dTk-iap4g&midSig=3If7Tsr5qHUrg1&trk=eml-email_job_alert_digest_01-job_card-0-jobcard_body&trkEmail=eml-email_job_alert_digest_01-job_card-0-jobcard_body-null-2f7c~lx6q6e3d~tb-null-null&eid=2f7c-lx6q6e3d-tb&otpToken=MTMwNDFkZTAxMzI4YzNjNWIzMmYwMmUyNGUxNmU3YjY4N2M2ZDY0MjkzYWM4YjZiNzRjZjA5Njg0YzVhNTZiMGY3OTQ4NzgwNDBkOWM2M2U3ZmZhZjU5MzY0Yzg1MjM3Y2E1YjBhMTAwZDM5YjIsMSwx",
+			"jobTitle": "Director, Software Engineering ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": " Omnicell",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 36594210,
+			"jobLocationId": 72314723,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717948099000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717957107000
+				}
+			],
+			"jobTitle": "VP of Enterprise Data and Analytics",
+			"applicationType": "APPLY4ME",
+			"companyName": "Workiva, Inc",
+			"companyLogoUrl": "https://s3.amazonaws.com/tlc-company-logo/prod/2x/workiva.png",
+			"companySeoName": "workiva",
+			"jobClosedDate": 1718995574000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36594205,
+			"jobLocationId": 72510872,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717947992000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717957336000
+				}
+			],
+			"jobTitle": "Software Engineering Manager",
+			"applicationType": "APPLY4ME",
+			"companyName": "Rancher Labs",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/48576/52b1ceed-7201-48e1-8976-d635abc75387.png",
+			"companySeoName": "rancherlabs",
+			"jobClosedDate": 1718026865000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36590134,
+			"jobLocationId": 70338873,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717787074000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717802920000
+				}
+			],
+			"jobTitle": "VP, Product Management",
+			"applicationType": "APPLY4ME",
+			"companyName": "ADT Inc.",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/21130/5651d747-e0a7-4fc4-b5f6-86bd5b404736.png",
+			"companySeoName": "adtinc",
+			"jobClosedDate": 1722387553000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 398513,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717605253000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717611698000
+				}
+			],
+			"jobUrl": "https://www.aptrack.co/uap/AAAGoQAPatsCHUyA/#apply",
+			"jobTitle": "Senior Director of Engineering",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Idibu",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 398511,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717605051000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717611492000
+				}
+			],
+			"jobUrl": "https://tnsi.wd1.myworkdayjobs.com/Search/job/USA---Virtual---Virginia/Sr-Director--Integration-Software-Engineering_R1854?source=LinkedIn",
+			"jobTitle": "Sr Director, Integration Software Engineering",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "TNS, Inc.",
+			"companySeoName": "tns",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 397748,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717530204000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717536047000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3779753483",
+			"jobTitle": "Principal Enterprise Architect - Cloud Transformation ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "TriNet",
+			"companySeoName": "prolacta",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 397604,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717523571000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717529951000
+				}
+			],
+			"jobUrl": "https://stripe.com/jobs/listing/manager-solutions-architecture/5855780",
+			"jobTitle": "Manager, Solutions Architecture",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Stripe",
+			"companySeoName": "stripe",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 397603,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717523525000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717530047000
+				}
+			],
+			"jobUrl": "https://stripe.com/jobs/listing/solutions-architect-platforms/5919739",
+			"jobTitle": "Solutions Architect, Platforms",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Stripe",
+			"companySeoName": "stripe",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 397563,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717522495000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717530332000
+				}
+			],
+			"jobUrl": "https://careers.fcc-asrgroup.com/job/West-Palm-Beach-Sr_-Supply-Chain-Data-&-Analytics-Coordinator%2C-COE-FL-33401/1061793401/",
+			"jobTitle": "Sr. Supply Chain Data & Analytics Coordinator, COE",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "ASR Group",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 397134,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717507174000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717515482000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3939646520/",
+			"jobTitle": "Senior Software Engineer - Remote",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Clearway Health",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 396634,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717449951000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717484496000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3920299378/?refId=6jOku7f%2BM9gaJiDeWN7wtA%3D%3D&trk=eml-sjr-top-apply-cta&midToken=AQEr4dTk-iap4g&midSig=3LUMkUd88LNbg1&trkEmail=eml-email_jobs_saved_job_reminder_01-null-5-mercado_redesign-null-2f7c%7Elwz8c1yr%7E5o-null-jobs%7Eview",
+			"jobTitle": "Senior Staff Software Engineer ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Dutchie",
+			"companySeoName": "dutchie",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 36565773,
+			"jobLocationId": 71450982,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717434631000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717449058000
+				}
+			],
+			"jobTitle": "Director, Digital Business Partner",
+			"applicationType": "APPLY4ME",
+			"companyName": "Carrier Global Corporation",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/66124/720d3dff-dbb2-426b-a98c-9f81e2281bdd.png",
+			"companySeoName": "carrierglobalcorporation",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36565731,
+			"jobLocationId": 71854162,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717434445000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717448257000
+				}
+			],
+			"jobTitle": "Senior Director of Engineering",
+			"applicationType": "APPLY4ME",
+			"companyName": "CloudVector",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/5478/53671c6f-72ab-4c4a-83d8-9ebc3763eb2d.png",
+			"companySeoName": "imperva",
+			"jobClosedDate": 1717639378000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36557540,
+			"jobLocationId": 72044483,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717249987000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717276468000
+				}
+			],
+			"jobTitle": "Staff Software Engineer | Backend",
+			"applicationType": "APPLY4ME",
+			"companyName": "Ramp.com",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/26332/f51478fe-c25f-4209-8dad-77f11fa94078.jpg",
+			"companySeoName": "rampholdings",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 395211,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717210243000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717235999000
+				}
+			],
+			"jobUrl": "https://phg.tbe.taleo.net/phg03/ats/careers/v2/viewRequisition?org=EMPLOYERSINSURANCE&source=LinkedIn&rid=6103&cws=42&src=LinkedIn&gns=LinkedIn",
+			"jobTitle": "VP, Enterprise Architecture",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "EMPLOYERS Insurance Group (EIG)",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 395205,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717210135000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717235641000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3908703117",
+			"jobTitle": "Director of Software ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Visby Medical",
+			"companySeoName": "visbymedical",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 395203,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717210073000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717235373000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3914059754",
+			"jobTitle": "Manager, Software Engineering ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "SalesLoft",
+			"companySeoName": "salesloft",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 395071,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717191651000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717234883000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3937524116",
+			"jobTitle": "Associate Director, Software Engineering - Search ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Sirius XM",
+			"companySeoName": "sirius",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 395069,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717191600000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717225172000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3909380073",
+			"jobTitle": "VP of Software Engineering ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Frontdoor, Inc.",
+			"companySeoName": "frontdoorinc",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 393683,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717085477000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717100248000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3916269430",
+			"jobTitle": "Sr Director, Enterprise Architecture",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Restaurant Brands International",
+			"companySeoName": "restaurantbrandsinternational",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 392949,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1717010117000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1717019281000
+				}
+			],
+			"jobUrl": "https://recruiting.ultipro.com/MSD1000MSDS/JobBoard/1f9339ba-2d37-44eb-813d-06683cb57987/OpportunityDetail?opportunityId=d4b5e04f-1dea-4f6e-a959-6caac1b3302a",
+			"jobTitle": "Senior Manager, Software Development",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "VelocityEHS Careers",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 392519,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716982796000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1716992961000
+				}
+			],
+			"jobUrl": "https://boards.greenhouse.io/visbymedical/jobs/5888078003?source=LinkedIn",
+			"jobTitle": "Job Application for Director of Software at Visby Medical",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Visby Medical",
+			"companyLogoUrl": "https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/246/000/resized/Untitled_drawing.png?1603301612",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 36540820,
+			"jobLocationId": 72027999,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716982449000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1716991637000
+				}
+			],
+			"jobTitle": "Senior Enterprise Architect",
+			"applicationType": "APPLY4ME",
+			"companyName": "MedImpact Healthcare Systems, Inc",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/1411/84a4358a-c529-4938-9dd1-d8d76aadea15.jpeg",
+			"companySeoName": "medimpacthealthcaresystemsinc",
+			"jobClosedDate": 1717294414000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 392517,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716980339000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1716992714000
+				}
+			],
+			"jobUrl": "https://careers-constructconnect.icims.com/jobs/1221/manager%2c-software-engineering-%28data%29/job?mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+			"jobTitle": "Manager, Software Engineering (Data) in Remote -US | Careers at Remote - US",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "ConstructConnect",
+			"companySeoName": "amorimflooringnorthamericainc",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 392516,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716980217000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1716992499000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3936907305/?trackingId=bNqb0Ubb5qQfmBSOQ7GhBg%3D%3D&refId=ByteString%28length%3D16%2Cbytes%3D9cad8530...5cd5cd71%29&midToken=AQEr4dTk-iap4g&midSig=2q9-juESfrFbg1&trk=eml-email_job_alert_digest_01-job_card-0-jobcard_body&trkEmail=eml-email_job_alert_digest_01-job_card-0-jobcard_body-null-2f7c~lwra1tnb~ab-null-null&eid=2f7c-lwra1tnb-ab&otpToken=MTMwNDFkZTAxMzI4YzNjNWIzMmYwM2UzNDMxZGVlYmM4ZmNkZDY0NTkzYWM4YjZiNzRjZjA5Njg0YzVhNTZhYjhlYjQ4N2JmNzBjNWJiYzc0MGVhZDQxODgyMjM1ZWI2NmRkMjFmMjNhZWFjNWQsMSwx",
+			"jobTitle": "Software Development Manager",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "BigIron",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 392427,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716950790000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1716970282000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3889030653",
+			"jobTitle": "Mgr. Software Engineering ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "UKG",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 392352,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716943272000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1716969950000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3936922660",
+			"jobTitle": "Vice President of Software Engineering ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Lennar",
+			"companySeoName": "lennarcorporation",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 392351,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716943235000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1716969162000
+				}
+			],
+			"jobUrl": "https://githubinc.jibeapply.com/jobs/2919?iis=Job+Board&iisn=LinkedIn&lever-source=LinkedinPosting&lang=en-us",
+			"jobTitle": "Senior Software Engineering Manager",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "GitHub, Inc.",
+			"companyLogoUrl": "https://assets.jibecdn.com/prod/githubinc/0.0.45/assets/brands/https://githubinc.icims.com/icims2/servlet/icims2?module=AppInert&action=download&id=59&hashed=-1914625542",
+			"jobClosedDate": 1745540596000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 36530094,
+			"jobLocationId": 71777025,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716780328000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1716820781000
+				}
+			],
+			"jobTitle": "Senior Director Software Engineering - Remote",
+			"applicationType": "APPLY4ME",
+			"companyName": "UnitedHealth Group",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/2374/1ef4c74f-45b0-4f4c-b445-da87b1332de7.png",
+			"companySeoName": "unitedhealthgroup",
+			"jobClosedDate": 1716976899000,
+			"applicationPdfExists": false,
+			"reasonToCloseId": 5,
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36530086,
+			"jobLocationId": 71910150,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716780209000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1716820630000
+				}
+			],
+			"jobTitle": "Principal Application Developer",
+			"applicationType": "APPLY4ME",
+			"companyName": "ADP (Automatic Data Processing)",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/19601/17ef1836-a128-4ee7-a77f-da4b3ee513eb.jpg",
+			"companySeoName": "appcastio",
+			"jobClosedDate": 1719449999000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36530083,
+			"jobLocationId": 71602552,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716780176000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1716822193000
+				}
+			],
+			"jobTitle": "Senior Enterprise Architect",
+			"applicationType": "APPLY4ME",
+			"companyName": "Accenture",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/16696/ce48b70d-040e-4abf-b7b4-e8c0794e282e.jpg",
+			"companySeoName": "accenture",
+			"jobClosedDate": 1716998455000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36530075,
+			"jobLocationId": 71423455,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716780093000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1716820340000
+				}
+			],
+			"jobTitle": "Director of Cloud Engineering",
+			"applicationType": "APPLY4ME",
+			"companyName": "Now Optics",
+			"jobClosedDate": 1730848921000,
+			"applicationPdfExists": false,
+			"reasonToCloseId": 3,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36530072,
+			"jobLocationId": 71451348,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716780051000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1716821542000
+				}
+			],
+			"jobTitle": "Senior Solution Architect, Insights Technologies",
+			"applicationType": "APPLY4ME",
+			"companyName": "Material",
+			"jobClosedDate": 1733186256000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 390962,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716779639000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1716818701000
+				}
+			],
+			"jobUrl": "https://builtin.com/job/software-development-manager-smartcat/2430737",
+			"jobTitle": "Software Development Manager at Smartcat",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Smartcat",
+			"companySeoName": "smartcat",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 390533,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716607590000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1716617061000
+				}
+			],
+			"jobUrl": "https://careers.cbre.com/en_US/careers/JobDetail/Principal-Enterprise-Architect-IM/162650",
+			"jobTitle": "Principal Enterprise Architect (IM) - 162650 ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "CBRE",
+			"companySeoName": "cbregroup",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 390532,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716607326000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1716617178000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3884455740",
+			"jobTitle": "Manager, Software Development & Engineering ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Lennar",
+			"companySeoName": "lennarcorporation",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 390531,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716606949000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1716617397000
+				}
+			],
+			"jobUrl": "https://frontdoor.jobs/virtual-usa/vp-of-software-engineering/75DD3A42F7FE4D2C899A2849531B759C/job/?vs=1606&utm_source=LinkedIn.com-DE&utm_medium=Social+Media&utm_campaign=LinkedIn.com",
+			"jobTitle": "VP of Software Engineering",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Frontdoor",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 36518663,
+			"jobLocationId": 71427690,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716460311000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1716462851000
+				}
+			],
+			"jobTitle": "Senior Director Technology - Remote",
+			"applicationType": "APPLY4ME",
+			"companyName": "UnitedHealth Group",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/2374/1ef4c74f-45b0-4f4c-b445-da87b1332de7.png",
+			"companySeoName": "unitedhealthgroup",
+			"jobClosedDate": 1718633351000,
+			"applicationPdfExists": false,
+			"reasonToCloseId": 5,
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36518662,
+			"jobLocationId": 71491901,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716460050000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1716462858000
+				}
+			],
+			"jobTitle": "Chief Technology Officer (CTO), Washington, DC Remote",
+			"applicationType": "APPLY4ME",
+			"companyName": "FWDthink LLC",
+			"jobClosedDate": 1716463820000,
+			"applicationPdfExists": false,
+			"reasonToCloseId": 1,
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36518661,
+			"jobLocationId": 71682246,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716459682000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1716463239000
+				}
+			],
+			"jobTitle": "Zillow Events - Senior Software Development Engineer",
+			"applicationType": "APPLY4ME",
+			"companyName": "Zillow Group, Inc.",
+			"companySeoName": "zillow-group",
+			"jobClosedDate": 1717180549000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36518660,
+			"jobLocationId": 71698214,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716459639000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1716462528000
+				}
+			],
+			"jobTitle": "Software Architect",
+			"applicationType": "APPLY4ME",
+			"companyName": "Updater",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/3794/3732fea9-725c-4bfb-b9a8-99e5b06032c6.png",
+			"companySeoName": "updater",
+			"jobClosedDate": 1719544731000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36518659,
+			"jobLocationId": 71711484,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716459520000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1716462435000
+				}
+			],
+			"jobTitle": "Director, Intelligent Automation - Presales Solution Consulting",
+			"applicationType": "APPLY4ME",
+			"companyName": "ServiceNow",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/21012/04b0c0b8-e21e-4ad6-8929-c956eb7974ef.jpg",
+			"companySeoName": "servicenow",
+			"jobClosedDate": 1725802174000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36518658,
+			"jobLocationId": 71724320,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716459440000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1716463467000
+				}
+			],
+			"jobTitle": "Senior Manager, Solutions Architect (Remote-Eligible)",
+			"applicationType": "APPLY4ME",
+			"companyName": "eSmartloan",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/2443/e9b537d8-2b35-4ee6-a4f7-268d45a07ef9.png",
+			"companySeoName": "capitalonefinancialcorporation",
+			"jobClosedDate": 1722388779000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36518657,
+			"jobLocationId": 71729286,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716459395000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1716463687000
+				}
+			],
+			"jobTitle": "(USA) Senior Manager, Software Engineering (Recruiting Tech)",
+			"applicationType": "APPLY4ME",
+			"companyName": "Walmart",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/2347/56ad3733-3264-4a95-abf6-e220e3ba4587.jpg",
+			"companySeoName": "walmart",
+			"jobClosedDate": 1720805924000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 388950,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1716458265000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1716462722000
+				}
+			],
+			"jobUrl": "https://careers-nrgmr.icims.com/jobs/3054/vice-president-or-senior-vice-president%252525252525252525252525252c-technology-market-research-practice/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1342&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+			"jobTitle": "Vice President or Senior Vice President, Technology Market Research Practice",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "NRG",
+			"companySeoName": "nrg",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 36442210,
+			"jobLocationId": 70870034,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714999456000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1715012567000
+				}
+			],
+			"jobTitle": "VP, Senior Solution Architect",
+			"applicationType": "APPLY4ME",
+			"companyName": "Synchrony",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/6498/0aa1f621-ba3f-46bc-9bfe-6d938726d944.png",
+			"companySeoName": "synchronyfinancial",
+			"jobClosedDate": 1717032128000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36442206,
+			"jobLocationId": 70991889,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714999429000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1715017456000
+				}
+			],
+			"jobTitle": "Principal Cloud Architect (Remote)",
+			"applicationType": "APPLY4ME",
+			"companyName": "CareFirst BlueCross BlueShield",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/7664/d645209e-63a4-487e-8824-14d9bb8a5057.png",
+			"companySeoName": "carefirstbluecrossblueshield",
+			"jobClosedDate": 1717088574000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 374428,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714998933000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1715013320000
+				}
+			],
+			"jobUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/236717?utm_medium=jobboard&utm_source=LinkedIn",
+			"jobTitle": "Software Engineering Director, Oracle SaaS - ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Oracle Careers",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 36439286,
+			"jobLocationId": 70456338,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714934882000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714956995000
+				}
+			],
+			"jobTitle": "Software Architect",
+			"applicationType": "APPLY4ME",
+			"companyName": "Engie",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/7114/3a5c784d-c8fa-4233-bf73-5beb038078e0.png",
+			"companySeoName": "engie",
+			"jobClosedDate": 1716027839000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36439277,
+			"jobLocationId": 70920137,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714934674000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714957809000
+				}
+			],
+			"jobTitle": "Senior Director of Platform Connectivity",
+			"applicationType": "APPLY4ME",
+			"companyName": "Workiva, Inc",
+			"companyLogoUrl": "https://s3.amazonaws.com/tlc-company-logo/prod/2x/workiva.png",
+			"companySeoName": "workiva",
+			"jobClosedDate": 1722388099000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 373953,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714926925000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714939405000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3916466213",
+			"jobTitle": "Manager of Software Engineering",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "BHG Financial",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 373911,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714922061000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714939171000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3914546639/?trackingId=UgqiMieBDuskyoMrFKQ%2Bqg%3D%3D&refId=ByteString%28length%3D16%2Cbytes%3Df12b32c1...cfee7c5c%29&midToken=AQEr4dTk-iap4g&midSig=1EOMruvzTE7rg1&trk=eml-email_job_alert_digest_01-job_card-0-jobcard_body&trkEmail=eml-email_job_alert_digest_01-job_card-0-jobcard_body-null-2f7c~lvszsz6r~4m-null-null&eid=2f7c-lvszsz6r-4m&otpToken=MTMwNDFkZTAxMzI4YzNjNWIzMmYwMWUyNGUxZmU2YjY4ZGNiZDI0OTkzYWM4YjZiNzRjZjA5Njg0YzVhNTY4ZjkxOTVkZGI1NjBmNmZkNzhlOWY5YmRmOTZmNzJjMzQyMWQ3ZDUwMGU5M2IwMzEsMSwx",
+			"jobTitle": "(2) Software Development Manager | Oracle | LinkedIn",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Oracle",
+			"companySeoName": "oraclecorporation",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 373696,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714850927000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714879884000
+				}
+			],
+			"jobUrl": "https://goodrx.wd1.myworkdayjobs.com/Careers/job/Remote-USA/Principal-Software-Engineer-I_JR100109?source=LinkedIn",
+			"jobTitle": "Principal Software Engineer",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "GoodRx, Inc.",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net"
+		},
+		{
+			"id": 372069,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714663476000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714667894000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3884605559",
+			"jobTitle": "Director of Engineering, Platform ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Redpanda Data",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 371998,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714659720000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1714665253000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/enterprise-jobs/3890889737?refId=JOB_SEARCH_JOB_CARD_CLICK%3A%3Ajobs_list_link%3A%3A72a1f91b-80a0-482a-b5fd-f788dc67545c&trackingId=nGDzmZ4h24UUhaNqwqarmw%3D%3D&refId=JOB_SEARCH_JOB_CARD_CLICK%3A%3Ajobs_list_link%3A%3A72a1f91b-80a0-482a-b5fd-f788dc67545c&trackingId=nGDzmZ4h24UUhaNqwqarmw%3D%3D&trk=jobs_list_link",
+			"jobTitle": "Data Engineer",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Palmetto",
+			"applicationPdfExists": false,
+			"reasonToCloseId": 9
+		},
+		{
+			"id": 371836,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714652527000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714655216000
+				}
+			],
+			"jobUrl": "https://jobot.com/search?q=Chief+Software+Architect&l=REMOTE&sort=compensation+desc&j=8a5b839300",
+			"jobTitle": "Senior Backend Engineer",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Jobot",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 36427924,
+			"jobLocationId": 68963399,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714647806000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714650744000
+				}
+			],
+			"jobTitle": "Principal Software Engineer, Strategic Initiatives (US REMOTE) - 29584",
+			"applicationType": "APPLY4ME",
+			"companyName": "Splunk",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/2164/e588f595-15e1-4f04-bf76-eb54b7012089.jfif",
+			"companySeoName": "splunk",
+			"jobClosedDate": 1722386549000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36427923,
+			"jobLocationId": 68977240,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714647777000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1714650517000
+				}
+			],
+			"jobTitle": "Sr Enterprise Architect",
+			"applicationType": "APPLY4ME",
+			"companyName": "Liberty Information Technology Limited",
+			"companySeoName": "libertyinformationtechnologylimited",
+			"jobClosedDate": 1714650519000,
+			"applicationPdfExists": false,
+			"reasonToCloseId": 1,
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36427920,
+			"jobLocationId": 69945492,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714647750000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714650662000
+				}
+			],
+			"jobTitle": "REMOTE Principle Full Stack Web Developer",
+			"applicationType": "APPLY4ME",
+			"companyName": "Belcan",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/3784/fd7774ef-63aa-4a4e-949c-abe891fc0902.png",
+			"companySeoName": "belcan",
+			"jobClosedDate": 1714860134000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36427916,
+			"jobLocationId": 70811144,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714647586000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714650536000
+				}
+			],
+			"jobTitle": "Senior Software Engineer",
+			"applicationType": "APPLY4ME",
+			"companyName": "Unqork",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/48508/186bf6ea-1f81-48a0-adcb-7cb745a6888d.png",
+			"companySeoName": "unqork",
+			"jobClosedDate": 1717020769000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36427915,
+			"jobLocationId": 70380372,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714647549000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714647718000
+				}
+			],
+			"jobTitle": "Head of Engineering (Remote, US)",
+			"applicationType": "APPLY4ME",
+			"companyName": "Collective[i]",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/26394/782c1958-879f-433d-8756-39b46a114e8c.png",
+			"companySeoName": "collectivei",
+			"jobClosedDate": 1722387575000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 371808,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714646849000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714651269000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3905125264",
+			"jobTitle": "Software Architect ",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": " Körber Supply Chain",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 371675,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714621936000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714628719000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3915605194/?trackingId=6HHKUI%2FoJzroKDvoRZR2HQ%3D%3D&refId=ByteString%28length%3D16%2Cbytes%3D30622bb5...2aab0910%29&midToken=AQEr4dTk-iap4g&midSig=14ywFFuec73rg1&trk=eml-email_job_alert_digest_01-job_card-0-jobcard_body&trkEmail=eml-email_job_alert_digest_01-job_card-0-jobcard_body-null-2f7c~lvopiol3~v7-null-null&eid=2f7c-lvopiol3-v7&otpToken=MTMwNDFkZTAxMzI4YzNjNWIzMmYwMWVjNDQxZmVmYjM4YWM4ZDc0MzkzYWM4YjZiNzRjZjA5Njg0YzVhNTY5MGJjOTBhMmJlNTdkYWIxOWQ5ZWRiNTgyYWE0MzhlYWNkNzJiY2U5YjE4MjU2ZDEsMSwx",
+			"jobTitle": "Director Application Development & Support (Remote)",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "First Citizens Bank",
+			"companySeoName": "firstcitizensbank",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 370412,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714535317000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1714561828000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3905210640",
+			"jobTitle": "Head of Application Engineering",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "OMEGA POINT",
+			"companySeoName": "omegapoint",
+			"applicationPdfExists": false,
+			"reasonToCloseId": 1
+		},
+		{
+			"id": 36412015,
+			"jobLocationId": 70783612,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714389189000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714393713000
+				}
+			],
+			"jobTitle": "Principal Engineer, Product Software",
+			"applicationType": "APPLY4ME",
+			"companyName": "Equinix",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/4236/62e7fa96-93b6-4d51-a08a-8742fca32b49.jpg",
+			"companySeoName": "equinix",
+			"jobClosedDate": 1715700984000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 367333,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714229921000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714251049000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3879687443",
+			"jobTitle": "Manager of Software Engineering",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "BHG Financial",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 366731,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714152847000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714173968000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3911512164",
+			"jobTitle": "Software Engineering Manager",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Onebrief",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 366728,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714152648000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714181415000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3905916978",
+			"jobTitle": "Director, Software Development",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "FIS, Inc.",
+			"companySeoName": "fis",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 366371,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714127138000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714129045000
+				}
+			],
+			"jobUrl": "https://boards.greenhouse.io/pulumicorporation/jobs/5853071003",
+			"jobTitle": "Director of Technical Product Marketing",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Pulumi Corporation",
+			"companyLogoUrl": "https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/591/100/resized/stacked-square.png?1689266924",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 36402185,
+			"jobLocationId": 68508360,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714084597000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714122210000
+				}
+			],
+			"jobTitle": "Experienced Full-Stack Engineer (Backend-leaning)",
+			"applicationType": "APPLY4ME",
+			"companyName": "Stytch",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/68627/e420fcc3-b2cc-4019-a6e0-cf9f9a6c4053.jpg",
+			"companySeoName": "stytch",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36402182,
+			"jobLocationId": 70532432,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714084512000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714131917000
+				}
+			],
+			"jobTitle": "Director, Software Engineering",
+			"applicationType": "APPLY4ME",
+			"companyName": "Walmart",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/2347/56ad3733-3264-4a95-abf6-e220e3ba4587.jpg",
+			"companySeoName": "walmart",
+			"jobClosedDate": 1715487532000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36402181,
+			"jobLocationId": 70541585,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714084440000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714127942000
+				}
+			],
+			"jobTitle": "Enterprise Architecture Strategic Planning Lead (Remote)",
+			"applicationType": "APPLY4ME",
+			"companyName": "Raytheon Technologies",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/6499/11596971-a09b-4071-a6fd-0d580c85ae1d.png",
+			"companySeoName": "raytheontechnologies",
+			"jobClosedDate": 1714237753000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 366051,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714084104000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714123075000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3910326329/?midToken=AQEr4dTk-iap4g&midSig=0ki4upJsvmWrc1&trk=eml-email_application_confirmation_with_nba_01-jymbii-2-job_card_view&trkEmail=eml-email_application_confirmation_with_nba_01-jymbii-2-job_card_view-null-2f7c%7Elvfrrsps%7Evx-null-neptune%2Fjobs%2Eview",
+			"jobTitle": "Senior Software Engineering Manager",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": " GitHub",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 36398376,
+			"jobLocationId": 69652018,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714013973000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714019732000
+				}
+			],
+			"jobTitle": "VP of Product",
+			"applicationType": "APPLY4ME",
+			"companyName": "Wonders",
+			"jobClosedDate": 1722386967000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36398372,
+			"jobLocationId": 68629067,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714013923000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714019787000
+				}
+			],
+			"jobTitle": "VP of Engineering",
+			"applicationType": "APPLY4ME",
+			"companyName": "BambooHR",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/1047/08682353-77bf-4138-8019-e218543808fc.png",
+			"companySeoName": "bamboohr",
+			"jobClosedDate": 1722386325000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36398361,
+			"jobLocationId": 70500914,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714013762000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714019891000
+				}
+			],
+			"jobTitle": "Head of Quality Engineering",
+			"applicationType": "APPLY4ME",
+			"companyName": "Constant Contact",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/52560/5c0a7d38-07dd-4111-8747-fb714187288a.jpeg",
+			"companySeoName": "constantcontact",
+			"jobClosedDate": 1722387733000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36398350,
+			"jobLocationId": 69180041,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714013671000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714020003000
+				}
+			],
+			"jobTitle": "Chief Technology Officer",
+			"applicationType": "APPLY4ME",
+			"companyName": "Redaptive, Inc.",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/48431/2fae3914-4da7-4494-a5d3-d9288385c309.png",
+			"companySeoName": "redaptive",
+			"jobClosedDate": 1715073318000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 365095,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1714001436000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1714024360000
+				}
+			],
+			"jobUrl": "https://camunda.com/jobs/?gh_jid=5893204003",
+			"jobTitle": "Senior Director, Engineering",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Camunda",
+			"companySeoName": "camunda",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 36393447,
+			"jobLocationId": 70078855,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713953217000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1713967377000
+				}
+			],
+			"jobTitle": "Cloud Architect",
+			"applicationType": "APPLY4ME",
+			"companyName": "Yahoo",
+			"companyLogoUrl": "https://s3.amazonaws.com/tlc-company-logo/prod/2x/yahoox21.png",
+			"companySeoName": "yahoo",
+			"jobClosedDate": 1715107829000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36393441,
+			"jobLocationId": 70206324,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713953089000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1713965358000
+				}
+			],
+			"jobTitle": "Staff Software Engineer",
+			"applicationType": "APPLY4ME",
+			"companyName": "Unqork",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/48508/186bf6ea-1f81-48a0-adcb-7cb745a6888d.png",
+			"companySeoName": "unqork",
+			"jobClosedDate": 1715179462000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36393440,
+			"jobLocationId": 70377819,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713953068000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1713965194000
+				}
+			],
+			"jobTitle": "Staff Software Engineer",
+			"applicationType": "APPLY4ME",
+			"companyName": "HubSpot",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/8439/ba52dd1c-7a1f-48d3-a4ef-b4feff6f57ef.png",
+			"companySeoName": "hubspot",
+			"jobClosedDate": 1714566187000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36393432,
+			"jobLocationId": 70614503,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713952661000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1713955710000
+				}
+			],
+			"jobTitle": "Senior Manager, Solutions Engineering (REMOTE)",
+			"applicationType": "APPLY4ME",
+			"companyName": "Geico",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/1776/72270c20-c5bc-4dd0-9c6e-bc4e0fdfb40a.jpg",
+			"companySeoName": "geico",
+			"jobClosedDate": 1728127169000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36393423,
+			"jobLocationId": 70611703,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713952335000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1713967608000
+				}
+			],
+			"jobTitle": "Senior Director Architecture - Enterprise Data Product/Data Management",
+			"applicationType": "APPLY4ME",
+			"companyName": "The Travelers Companies, Inc",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/395/356b95d7-d16a-4e29-abb9-23a510f46e1b.jpg",
+			"companySeoName": "thetravelerscompaniesinc",
+			"jobClosedDate": 1731617659000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36392928,
+			"jobLocationId": 70400283,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713929266000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1713947674000
+				}
+			],
+			"jobTitle": "Senior Software Engineer, Core Platform",
+			"applicationType": "APPLY4ME",
+			"companyName": "Vanta",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/53574/2a0c41fb-fa78-48d4-a701-79266324185f.png",
+			"companySeoName": "vanta",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36392920,
+			"jobLocationId": 70495647,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713929119000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1713948421000
+				}
+			],
+			"jobTitle": "Senior Manager, Full Stack Software Engineering - Capital One Software (Remote Eligible)",
+			"applicationType": "APPLY4ME",
+			"companyName": "Capital One Financial Corporation",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/2443/e9b537d8-2b35-4ee6-a4f7-268d45a07ef9.png",
+			"companySeoName": "capitalonefinancialcorporation",
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36392899,
+			"jobLocationId": 70602971,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713928762000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1713931815000
+				}
+			],
+			"jobTitle": "SVP, Software Products - Remote",
+			"applicationType": "APPLY4ME",
+			"companyName": "Quadient",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/3876/c7943e0d-61ad-4d36-8330-528d95a8de1c.png",
+			"companySeoName": "quadient",
+			"jobClosedDate": 1713931816000,
+			"applicationPdfExists": false,
+			"reasonToCloseId": 1,
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36389318,
+			"jobLocationId": 69808190,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713885321000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1713892907000
+				}
+			],
+			"jobTitle": "Principal Software Architect - Martech",
+			"applicationType": "APPLY4ME",
+			"companyName": "CVS Health",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/411/cbdd3a0b-571f-4d4f-9eae-73a681c8480a.jpg",
+			"companySeoName": "cvshealth",
+			"jobClosedDate": 1722387163000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36389203,
+			"jobLocationId": 70564547,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713884699000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1713891012000
+				}
+			],
+			"jobTitle": "Principal IT Architect",
+			"applicationType": "APPLY4ME",
+			"companyName": "NextEra Energy",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/386/5fa2243f-4678-4318-ab32-2a2bb9d4c567.png",
+			"companySeoName": "nexteraenergy",
+			"jobClosedDate": 1713891013000,
+			"applicationPdfExists": false,
+			"reasonToCloseId": 1,
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36389171,
+			"jobLocationId": 70292268,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713884579000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1713887815000
+				}
+			],
+			"jobTitle": "Systems Engineer, MajorAccounts",
+			"applicationType": "APPLY4ME",
+			"companyName": "Palo Alto Networks",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/2198/18324ec7-c20d-4e41-a6eb-bf1cc218446d.png",
+			"companySeoName": "paloaltonetworks",
+			"jobClosedDate": 1722387526000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 362805,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713841575000
+				},
+				{
+					"statusName": "closed",
+					"timestamp": 1713879124000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3904720453",
+			"jobTitle": "SVP, Software Products - Remote",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Quadient",
+			"companySeoName": "quadient",
+			"applicationPdfExists": false,
+			"reasonToCloseId": 1
+		},
+		{
+			"id": 362804,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713841513000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1713878333000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3904428698",
+			"jobTitle": "Senior Engineering Manager, Enterprise Platform",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Mural",
+			"companySeoName": "mural",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 362802,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713841445000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1713882658000
+				}
+			],
+			"jobUrl": "https://www.linkedin.com/jobs/view/3903274305",
+			"jobTitle": "Vice President, Solution Architecture",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Sirius XM",
+			"companySeoName": "sirius",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 361722,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713796572000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1713810966000
+				}
+			],
+			"jobUrl": "https://careers.datadoghq.com/detail/5852435/?gh_jid=5852435",
+			"jobTitle": "Director, Product Design Core Products | Datadog Careers",
+			"applicationType": "APPLY4ME_EXTERNAL_URL",
+			"companyName": "Datadog",
+			"companySeoName": "datadog",
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net"
+		},
+		{
+			"id": 36382851,
+			"jobLocationId": 68753128,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713792026000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1713810573000
+				}
+			],
+			"jobTitle": "Principal Software Engineer",
+			"applicationType": "APPLY4ME",
+			"companyName": "Divvy Homes",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/21509/eeaf0e30-96eb-4bc3-b31a-abe0365b21ff.jpg",
+			"companySeoName": "divvyhomes",
+			"jobClosedDate": 1722386366000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36382815,
+			"jobLocationId": 68962856,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713791863000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1713808481000
+				}
+			],
+			"jobTitle": "Principal Software Engineer - Cloud Solutions",
+			"applicationType": "APPLY4ME",
+			"companyName": "JP Morgan Chase & Co.",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/2445/1fe9df69-edeb-4d8e-b353-0f771721abf2.png",
+			"companySeoName": "jpmorganchase",
+			"jobClosedDate": 1726321481000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36382797,
+			"jobLocationId": 70521278,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713791803000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1713806369000
+				}
+			],
+			"jobTitle": "Principal Software Engineer",
+			"applicationType": "APPLY4ME",
+			"companyName": "Toast",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/38491/2af38f03-8056-4ab6-b1a8-263217e82e78.png",
+			"companySeoName": "toast",
+			"jobClosedDate": 1713937809000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36382709,
+			"jobLocationId": 70385944,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713791357000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1713805192000
+				}
+			],
+			"jobTitle": "Staff Software Engineer",
+			"applicationType": "APPLY4ME",
+			"companyName": "GlossGenius",
+			"companySeoName": "glossgenius",
+			"jobClosedDate": 1713980114000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36382677,
+			"jobLocationId": 70083813,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713791193000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1713805078000
+				}
+			],
+			"jobTitle": "Sr. Director, Software Engineering",
+			"applicationType": "APPLY4ME",
+			"companyName": "Restaurant Brands International Inc.",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/42589/ea29b78d-2de1-4745-8e54-2edf1f3d988f.jpg",
+			"companySeoName": "restaurantbrandsinternational",
+			"jobClosedDate": 1722387417000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36382647,
+			"jobLocationId": 68339332,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713790824000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1713792694000
+				}
+			],
+			"jobTitle": "Software Engineer",
+			"applicationType": "APPLY4ME",
+			"companyName": "Microsoft Legal Department",
+			"companySeoName": "microsoftlegaldepartment",
+			"jobClosedDate": 1722386096000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36382634,
+			"jobLocationId": 70148552,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713790698000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1713805290000
+				}
+			],
+			"jobTitle": "Staff Software Engineer, Partner Ecosystem",
+			"applicationType": "APPLY4ME",
+			"companyName": "Airbnb",
+			"companyLogoUrl": "https://s3.amazonaws.com/tlc-company-logo/prod/2x/airbnb.png",
+			"companySeoName": "airbnb",
+			"jobClosedDate": 1717084223000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc@codemarc.net",
+			"jobCurrentlyFeatured": false
+		},
+		{
+			"id": 36382617,
+			"jobLocationId": 70488279,
+			"applicationStatusList": [
+				{
+					"statusName": "pending",
+					"timestamp": 1713790557000
+				},
+				{
+					"statusName": "applied",
+					"timestamp": 1713807157000
+				}
+			],
+			"jobTitle": "Principal Software Engineer, Platform",
+			"applicationType": "APPLY4ME",
+			"companyName": "Credit Acceptance Corporation",
+			"companyLogoUrl": "https://s3.amazonaws.com/company-photo.theladders.com/4515/e4044a0d-dc35-4bbc-87a0-24732d0bccb8.png",
+			"companySeoName": "creditacceptancecorporation",
+			"jobClosedDate": 1714869246000,
+			"applicationPdfExists": true,
+			"emailUsed": "marc-greenberg-e7590c@theladders.net",
+			"jobCurrentlyFeatured": false
+		}
+	],
+	"meta": {
+		"count": 190
+	}
+}
