@@ -4,8 +4,6 @@ A Node.js application that generates PDF reports from The Ladders job applicatio
 
 ## Features
 
-- Fetches job application data from The Ladders API
-- Caches data in JSON format
 - Generates formatted PDF report with:
   - Application summary
   - Color-coded status indicators
